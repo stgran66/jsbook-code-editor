@@ -1,0 +1,6 @@
+[submodule "packages/local-api"]
+	path = packages/local-api
+	url = https://github.com/stgran66/jsbook-code-editor-local-api.git
+[submodule "packages/cli"]
+	path = packages/cli
+	url = https://github.com/stgran66/jsbook-code-editor-cli.git
