@@ -4,3 +4,6 @@
 [submodule "packages/cli"]
 	path = packages/cli
 	url = https://github.com/stgran66/jsbook-code-editor-cli.git
+[submodule "packages/local-client"]
+	path = packages/local-client
+	url = https://github.com/stgran66/jsbook-code-editor-client.git
